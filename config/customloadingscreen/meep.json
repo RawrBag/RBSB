@@ -1,0 +1,80 @@
+{
+    "renders": [
+        {
+        "image": {
+            "parent": "sample/flat_background",
+            "colour": "0xFF_00_00_00"
+            }
+    },
+   {
+			"image": {
+				"parent": "builtin/image",
+				"image": "config:compass.png",
+				"position_type": "CENTER",
+				"__comment": "don't change the x/y/width/height here, instead change them in the constants section (you can move them to variables if you want to do dynamic stuff, though i don't think changing _seconds_per_rotation over time will work properly)",
+				"position": { "x": "0", "y": "0", "width": "spinning_image_width", "height": "spinning_image_height" },
+				"texture": { "x": "0", "y": "0", "width": "1", "height": "1" }
+			},
+			"instructions": [
+				{
+					"parent": "builtin/translate",
+					"x": "spinning_image_x + (spinning_image_width / 2.0)",
+					"y": "spinning_image_y + (spinning_image_height / 2.0)"
+				},
+				{
+					"parent":"builtin/rotate",
+					"angle": "time * 360.0 / spinning_image_seconds_per_rotation",
+					"x": "0",
+					"y": "0",
+					"z": "1"
+				},
+				{
+					"parent": "builtin/translate",
+					"x": "-1.0 * (spinning_image_width / 2.0)",
+					"y": "-1.0 * (spinning_image_height / 2.0)"
+				}
+			]
+		}
+	],
+   
+            
+     
+    "functions": [
+        
+    ],
+    "variables": {
+        "bar_count": "forge_progress_bar_count",
+        "item_rotation": "time * 50",
+        		"spinning_image_width": "128",
+		"spinning_image_height": "128",
+		"spinning_image_x": "0",
+		"spinning_image_y": "0",
+		"spinning_image_seconds_per_rotation": "6"
+    },
+    "factories": [
+        {
+            "parent": "builtin/change",
+            "change": "factory_count < bar_count",
+            "to_create": [
+                {   
+                    "should_render": "factory_index < bar_count",
+                    "image": {
+                        "parent": "builtin/text",
+                        "image": "textures/font/ascii.png",
+                        "position_type": "BOTTOM_LEFT",
+                        "offset_pos": "BOTTOM_LEFT",
+                        "text": "forge_progress_bar_title(factory_index) + ': ' + forge_progress_bar_message(factory_index)",
+                        "position": {
+                            "x": "5",
+                            "y": "(factory_index - bar_count) * 16 - 4"
+                        },
+                        "colour": "0xFF_00_FF_FF"
+                    }
+                }
+            ]
+        }
+    ],
+    "actions": [
+        
+    ]
+}
