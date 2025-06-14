@@ -1,0 +1,202 @@
+/dank/null
+1.12.2
+AE2 Unofficial Extended Life
+AE2 Wireless Terminals (AE2WTLib)
+Actually Additions
+Actually Baubles
+Akashic Tome
+Alfheim
+AppleCore
+AppleSkin
+ArchitectureCraft
+Aroma1997's Dimensional World
+Aroma1997Core
+AutoRegLib
+Avaritia
+Avaritia Tweaks
+B.A.S.E
+BD Lib
+Bad Wither No Cookie! Reloaded
+Baubles
+Bed Patch
+Better Advancements
+Better Builder's Wands
+BiblioCraft
+Biome Bundle O Plenty
+Biomes O' Plenty
+Blockcraftery
+Bookshelf
+Botania
+Brandon's Core
+BuildCraft Lib
+CC: Tweaked
+CTM
+CameraOverhaul (Vintage)
+Chameleon
+Chest Transporter
+Chisel
+Chisels & Bits
+Clumps
+CoFH Core
+CoFH World
+CodeChicken Lib
+Controlling
+Cooking for Blockheads
+CraftTweaker2
+CreativeCore
+Custom Loading Screen
+Custom Main Menu
+Dark Utilities
+DeepResonance
+Default Options
+Dirt2Path
+Draconic Evolution
+Dynamic Surroundings
+ET Lunar
+ElecCore
+Ender IO
+EnderCore
+EnderStorage
+Environmental Tech
+Equivalent Additions
+Equivalent Energistics
+Exchangers
+Expanded Equivalence
+Extra Utilities 2
+Extreme Reactors
+FTB Backups
+FTB Guides
+FTB Library
+FTB Ultimine
+FTB Utilities
+Flat Colored Blocks
+Flux Networks
+Forge Endertech
+Forge Multipart CBE
+Forgelin-Continuous
+Fugue
+GregTech
+GroovyScript
+Guide-API
+GunpowderLib
+HammerLib
+Harvest
+Hunger In Peace
+Industrial Foregoing
+InitialInventory
+Integration Foregoing
+Inventory Tweaks
+Iron Backpacks
+Iron Chest
+Iron Furnaces
+JEI Integration
+Just Enough Items
+Just Enough Resources
+Let's Encrypt Craft
+Long Fall Boots
+MCMultiPart-2.5.3
+MTLib
+Mantle
+McJtyLib
+MixinBooter
+Mod Name Tooltip
+Mod Tweaker
+MoreOverlays
+Morph-o-Tool
+Morpheus
+Mouse Tweaks
+MrTJPCore
+Multi-Hotbar
+Multi-Hotbar Core
+Mystical Lib
+Natura
+Nature's Compass
+Nice
+Not Enough Wands
+Open Terrain Generator
+OpenBlocks
+OpenModsLib
+OpenTerrainGenerator
+OreLib Support Mod
+Pam's HarvestCraft
+Patchouli
+Placebo
+Platforms
+PortalGun
+ProjectE
+ProjectRed Compatibility
+ProjectRed Core
+ProjectRed Expansion
+ProjectRed Exploration
+ProjectRed Fabrication
+ProjectRed Illumination
+ProjectRed Transmission
+Quark
+RFTools
+RFTools Control
+RandomPatches
+Ranged Pumps
+ReAuth
+Reborn Core
+Red Core
+Redstone Arsenal
+Redstone Flux
+Resource Loader
+RoughlyEnoughIDs
+Rustic
+Scalar Legacy
+Serene Seasons
+ShadowMC
+ShetiPhian-Core
+Simple-Void-World-1.12-1.2.0.9-universal
+Snad
+SonarCore
+Soul Shards Respawn
+Sound Physics
+Spice of Life: Carrot Edition
+TOP Addons
+Tesla Core Lib
+Thaumcrafft Inventory Scanning
+Thaumcraft
+The Lost Cities
+The One Probe
+The Twilight Forest
+Thermal Cultivation
+Thermal Dynamics
+Thermal Expansion
+Thermal Foundation
+Thermal Innovation
+Thut Core
+Thut's Elevators
+TimeControl
+Tinkers Tool Leveling
+Tinkers' Construct
+TipTheScales
+TorchMaster
+Translocators
+Traveler's Backpack
+Traveller's Boots
+UniDict
+Universal Tweaks
+Valkyrie Lib
+Vanilla Vistas
+VintageFix
+VisualOres
+WanionLib
+Waystones
+Weeping Angels
+Wildlands Alpha
+Wireless Crafting Terminal 2
+Woot
+XNet
+Xaero's Minimap
+Xaero's World Map
+Xtones
+YABBA
+Zero CORE
+iChunUtil
+jehc-1.12.2-1.6.4
+memory_repo
+p455w0rd's Library
+preview_OptiFine_1.12.2_HD_U_G6_pre1
+rftoolspower-1.12-1.2.0
